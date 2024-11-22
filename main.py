@@ -16,7 +16,7 @@ light_magenta = colorama.Fore.LIGHTMAGENTA_EX
 light_green = colorama.Fore.LIGHTGREEN_EX
 light_red = colorama.Fore.LIGHTRED_EX
 reset = colorama.Fore.RESET
-# Создаем функцию
+# Определяем функцию
 def start_game() -> None:
     """
     Игра "Крестики-нолики".
